@@ -1,10 +1,9 @@
-<h1 style="font-size: 2.5em; font-weight: bold;">👋 Hi there! I'm Adel Saad</h1>
+# 👋 Hi there! I'm Adel Saad
 
-<p style="font-size: 1.2em; font-weight: bold;">
-I love building websites and apps that are not just functional, but also fun and easy to use 🌟.<br>
-Turning ideas into real projects that people enjoy is what gets me excited every day 🚀.<br>
-I’m always curious, learning new things, and ready to take on challenges that push my skills further.
-</p>
+ I love building websites and apps that are not just functional, but also fun and easy to use 🌟.  
+ Turning ideas into real projects that people enjoy is what gets me excited every day 🚀.  
+ I’m always curious, learning new things, and ready to take on challenges that push my skills further.
+
 ---
 
 
