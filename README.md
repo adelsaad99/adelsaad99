@@ -30,7 +30,7 @@ I’m always curious, learning new things, and ready to take on challenges that 
 ## 🚀 Live Projects
 
 - [Portfolio Website](https://adelsaad99.github.io/portfolio-website/)
-- [Advanced Calculator](https://adelsaad99.github.io/advanced-calculator/)  
+- [Advanced Calculator](https://adelsaad99.github.io/Advanced-Calculator/)  
 
 ---
 
