@@ -22,6 +22,7 @@ I’m always curious, learning new things, and ready to take on challenges that 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -30,7 +31,8 @@ I’m always curious, learning new things, and ready to take on challenges that 
 ## 🚀 Live Projects
 
 - [Portfolio Website](https://adelsaad99.github.io/portfolio-website/)
-- [Advanced Calculator](https://adelsaad99.github.io/Advanced-Calculator/)  
+- [Advanced Calculator](https://adelsaad99.github.io/Advanced-Calculator/)
+- [Country Information Finder](https://adelsaad99.github.io/country-information-finder/)
 
 ---
 
