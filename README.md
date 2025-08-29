@@ -27,6 +27,11 @@ I’m always curious, learning new things, and ready to take on challenges that 
 
 ---
 
+- [Portfolio Website](https://adelsaad99.github.io/portfolio-website/)
+- [Advanced Calculator](https://adelsaad99.github.io/advanced-calculator/)  
+
+---
+
 ## 📈 GitHub Stats
 
 ![Adel Saad GitHub stats](https://github-readme-stats.vercel.app/api?username=adelsaad99&show_icons=true&theme=dark&count_private=true)
