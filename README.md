@@ -6,7 +6,6 @@ I’m always curious, learning new things, and ready to take on challenges that 
 
 ---
 
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
