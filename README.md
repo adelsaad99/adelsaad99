@@ -29,4 +29,16 @@ I’m always curious, learning new things, and ready to take on challenges that 
 
 ---
 
+## 🖥️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelsaad99&layout=compact&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adelsaad99&theme=dark)
+
+---
+
 © 2025 Adel Saad
