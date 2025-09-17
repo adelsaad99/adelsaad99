@@ -49,18 +49,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Adel Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelsaad99&theme=dark&cache_seconds=1800)
-
----
-
-
-## 📊 More Stats
-
-![Adel Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelsaad99&show_icons=true&theme=dark&count_private=true)
-
----
 
 
 
