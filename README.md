@@ -32,6 +32,8 @@
 - [Advanced Calculator](https://adelsaad99.github.io/Advanced-Calculator/)
 - [Country Information Finder](https://adelsaad99.github.io/country-information-finder/)
 - [Article Hub](https://article-hub-1-e23v.onrender.com/)
+- [Employee Manager](https://employee-manager-frontend-k1c4.onrender.com/)
+
 
 ---
 
