@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm Adel Saad
+#  Hi there! I'm Adel Saad
 
- I love building websites and apps that are not just functional, but also fun and easy to use 🌟.  
- Turning ideas into real projects that people enjoy is what gets me excited every day 🚀.  
+ I love building websites and apps that are not just functional, but also fun and easy to use .  
+ Turning ideas into real projects that people enjoy is what gets me excited every day .  
  I’m always curious, learning new things, and ready to take on challenges that push my skills further.
 
 ---
