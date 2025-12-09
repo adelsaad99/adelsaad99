@@ -39,20 +39,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Adel Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelsaad99&theme=dark&cache_seconds=1800)
-
----
-
-## 🖥️ Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelsaad99&layout=compact&theme=dark)
-
----
-
-
-
-
-
 © 2025 Adel Saad
